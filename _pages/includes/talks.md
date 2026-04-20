@@ -1,5 +1,6 @@
 # 💬 Talks
 <ol reversed>
+<li>2026.04, Contributed talk: A deterministic particle method for the relativistic Landau equation, Midwest Numerical Analysis Day 2026, (MWNADay 2026), University of Notre Dame, Notre Dame, IN. </li>
 <li>2025.11, Poster: A deterministic particle method for the relativistic Landau equation, 28th International Conference on Numerical Simulation of Plasmas (ICNSP 2025), UCI, Irvine, CA.</li>
 <li>2025.10, Invited talk: Moment-enhanced shallow water equations for non-slip boundary conditions, 2025 SIAM New York-New Jersey-Pennsylvania Section Conference, Penn State, State College, PA.</li>
 <li>2024.12, Poster: Data-driven modeling of time-dependent nonlocal PDEs, CHaRMNET 2024 Annual Meeting, Virginia Tech, Blacksburg, VA.</li>
